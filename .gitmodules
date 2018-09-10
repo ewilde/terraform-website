@@ -338,3 +338,6 @@
 	path = ext/providers/tfe
 	url = https://github.com/terraform-providers/terraform-provider-tfe
 	branch = stable-website
+[submodule "ext/providers/openfaas"]
+	path = ext/providers/openfaas
+	url = https://github.com/ewilde/terraform-provider-openfaas.git
